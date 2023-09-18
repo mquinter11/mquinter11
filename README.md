@@ -5,6 +5,7 @@ My name is Madison Quinter, but most people call me Maddie
    - In my 8th Grade year, I had the chance to take S.T.E.M electives/classes, one in which was coding
    - I learned HTML language and some CSS
       - My time with CSS was less in the classroom because that is when the pandemic hit
+      - I used the site [Code.org](code.org)[^1] in classes
    - Last summer, I tried to take some online coding courses to refresh my memory and even pick up some new languages on my own; it didnt last long. 
 ### Reasons for taking this class ✔️
    - As I was thinking about college, I remembered how much I liked my first coding class
@@ -25,3 +26,6 @@ My name is Madison Quinter, but most people call me Maddie
    - I want to build the foundations for these sites effeciently
    - I want to expand my knowledge of MD and Java
    - I want to walk into college feeling prepared for new script!
+
+
+[^1]: Walks you through courses in all languages and scripts of code.
